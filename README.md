@@ -1,8 +1,9 @@
 # diagrama-de-componentes-estatico-
 # Sistema de Gestión de Biblioteca
 
+## Codigo del diagrama:
+```
 @startuml
-
 
 package "Sistema de Gestión de Biblioteca" {
     [Cliente]
@@ -22,7 +23,7 @@ package "Sistema de Gestión de Biblioteca" {
 [Controlador] --> [Base de Datos]
 
 @enduml
-
+```
 # Explicacion del diagrama:
 El diagrama de componentes del Sistema de Gestión de Biblioteca representa la estructura interna del sistema, mostrando los principales componentes y sus relaciones. Este diagrama es estático y proporciona una visión general de cómo están organizados los diferentes elementos del sistema.
 
