@@ -25,7 +25,7 @@ package "Sistema de Gestión de Biblioteca" {
 
 @enduml
 ```
-# Explicacion del diagrama:
+### Explicacion del diagrama:
 El diagrama de componentes del Sistema de Gestión de Biblioteca representa la estructura interna del sistema, mostrando los principales componentes y sus relaciones. Este diagrama es estático y proporciona una visión general de cómo están organizados los diferentes elementos del sistema.
 
 Cliente: Representa los usuarios que interactúan con el sistema de gestión de la biblioteca.
