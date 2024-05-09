@@ -11,8 +11,7 @@ package "Sistema de Gestión de Biblioteca" {
     
     [Controlador]
     
-    [Base de Datos]
-    
+    [Base de Datos]   
 }
 
 [Cliente] --> [Interfaz]
