@@ -1,5 +1,7 @@
 # diagrama-de-componentes-estatico-
-# Sistema de Gestión de Biblioteca
+## Sistema de Gestión de Biblioteca
+
+### Codigo del diagrama:
 ```
 @startuml
 
